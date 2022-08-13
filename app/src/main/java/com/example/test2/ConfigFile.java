@@ -1,0 +1,7 @@
+package com.example.test2;
+
+public class ConfigFile {
+    public static final String API_KEY = "47545151";
+    public static final String SESSION_ID = "1_MX40NzU0NTE1MX5-MTY2MDQwMjc4NjgzN35SV05GY0E0OUdWbWxwbHpxNW93MG1JQ1V-fg";
+    public static final String TOKEN = "T1==cGFydG5lcl9pZD00NzU0NTE1MSZzaWc9MzNiNDc3ODA3ZjdhMTQ5MGZmZmQ4NWVmNDBhZmU4OThhYWJjY2FlNTpzZXNzaW9uX2lkPTFfTVg0ME56VTBOVEUxTVg1LU1UWTJNRFF3TWpjNE5qZ3pOMzVTVjA1R1kwRTBPVWRXYld4d2JIcHhOVzkzTUcxSlExVi1mZyZjcmVhdGVfdGltZT0xNjYwNDAyODE1Jm5vbmNlPTAuMzgwNjkyMDk4MTE1Mzk4NSZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNjYxMDA3NjEzJmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9";
+}
